@@ -1,0 +1,11 @@
+{
+  "categories": {
+    "Пример": {
+      "tracks": [
+        "Пример - 1.mp3",
+      ],
+      "hotkey": "1",
+      "icon": "swords",
+      "color": "#8b0000"
+    },
+}
