@@ -131,3 +131,4 @@ player_settings.json
 * Waveform / прогресс-бар
 * Поддержка плейлистов
 
+Чтобы сбилдить используй команду pip install pyinstaller
